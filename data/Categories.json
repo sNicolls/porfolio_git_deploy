@@ -1,0 +1,41 @@
+{
+  "entries":
+  [
+    {
+      "ID": "0c5a50cf-e52b-4c7a-969d-73c8ac44ed35",
+      "name": "OPS",
+      "title": "Operations",
+      "description": "An Operations perspective ..."
+    },
+    {
+      "ID": "94e9e96e-05d4-4886-b62c-556c2b4d5c6a",
+      "name": "MAINT",
+      "title": "Maintenance",
+      "description": "A Maintenance perspective ..."
+    },
+    {
+      "ID": "c1657ba1-8992-4201-8e94-c994f0f8a03a",
+      "name": "RES",
+      "title": "Resources",
+      "description": "A Compliance perspective ..."
+    },
+    {
+      "ID": "a5f0a974-8e95-4f9d-81ee-af3ca8fe84c1",
+      "name": "COMP",
+      "title": "Compliance",
+      "description": "A Compliance perspective ..."
+    },
+    {
+      "ID": "0cdfc2f2-b515-4577-89e5-0f59db461ddf",
+      "name": "ADMIN",
+      "title": "Administration",
+      "description": "A nAdministration perspective ..."
+    },
+    {
+      "ID": "a77af166-fabc-416e-9a4a-735e4ce8da1c",
+      "name": "CONFIG",
+      "title": "Configuration",
+      "description": "A Configuration perspective ..."
+    }
+  ]
+}

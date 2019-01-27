@@ -1,0 +1,21 @@
+{
+    "name": "Alice",
+    "links": [
+      {
+          "rel": "self",
+          "href": "http://localhost:8080/customer/1"
+      },
+      {
+          "rel": "event",
+          "href": "http://localhost:8080/customer/1"
+      },
+      {
+          "rel": "insert",
+          "href": "http://localhost:8080/customer/1"
+      }
+      {
+          "rel": "remove",
+          "href": "http://localhost:8080/customer/1"
+      }
+    ]
+}

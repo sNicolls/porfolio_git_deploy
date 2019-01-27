@@ -1,0 +1,59 @@
+{
+  "entries":
+  [
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "DEFAULT",
+      "title": "Default",
+      "description": "The default start and end timestamps"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "RANGE",
+      "title": "Range",
+      "description": "A Range is a timespan between manually entered start and end timestamps"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "TODAY",
+      "title": "Today",
+      "description": "The current day"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "WORKDAY",
+      "title": "Workday",
+      "description": "Start of Shift 3 to end of Shift 1"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "ALLSHIFTS",
+      "title": "All Shifts",
+      "description": "Start of Shift 1 to end of Shift 3"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "THIS_WEEK",
+      "title": "This Week",
+      "description": "Start of week to end of week"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "SHIFT1",
+      "title": "Shift 1",
+      "description": "A Range is a timespan between manually entered start and end timestamps"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "SHIFT2",
+      "title": "Shift 2",
+      "description": "A Range is a timespan between manually entered start and end timestamps"
+    },
+    {
+      "ID": "485ea979-906a-422b-ac2c-2a84bb739c15",
+      "name": "SHIFT3",
+      "title": "Shift 3",
+      "description": "A Range is a timespan between manually entered start and end timestamps"
+    }
+  ]
+}

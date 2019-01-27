@@ -1,0 +1,82 @@
+{
+  "entries":
+  [
+    {
+      "typeID": "7701fc65-d3da-4c6b-aa1c-7e721a107713",
+      "entries" :
+      [
+        { "ID": "198d4fe0-0ccb-4c59-9ff8-87ce9c53ca95", "name": "Section Maintenance" },
+        { "ID": "0777ff24-5d7e-4ab6-8276-848d52325d8c", "name": "Equipment Maintenance" },
+        { "ID": "b67e6404-3d49-4771-8fb6-b3d2976ba684", "name": "Section Cut" },
+        { "ID": "47d1a4c7-4ad1-4e51-a58f-d83e8149fc25", "name": "Section Callout" }
+      ]
+    },
+    {
+      "typeID": "24b13405-3262-40db-b7a2-66dbc8c90074",
+      "entries" :
+      [
+        { "ID": "5b1fe25d-2cb8-44bc-8e8c-6442426d8fb5", "name": "1S" },
+        { "ID": "7afef712-bf68-46af-9ace-2ea4b09f11f0", "name": "1S L/S" },
+        { "ID": "710aa49e-2c75-4bc2-b7b3-105c32ff96b8", "name": "1S R/S" },
+        { "ID": "2e71d1d4-6263-4635-a8f1-ff51eca0148c", "name": "4N" },
+        { "ID": "96f2a7f9-487e-4f97-8e8c-9961167a16af", "name": "5N" },
+        { "ID": "75b87e17-913b-4f14-a01c-4b8492f4b62e", "name": "5N L/S" },
+        { "ID": "7b6dbbc0-0379-4afb-927a-4941ef539028", "name": "5N R/S" },
+        { "ID": "b442f9fa-5fb2-41be-9345-570f887daf90", "name": "BELTS" },
+        { "ID": "4825fcf3-5a2c-4edc-b1df-996ff5cbfd9f", "name": "ME #1" },
+        { "ID": "1ceba5c5-c757-4de7-9ef2-82c9b05c2b10", "name": "ME1 L/S" },
+        { "ID": "62224c79-6cf8-40b5-9653-2b0f62cd5333", "name": "ME1 R/S" },
+        { "ID": "00fdfdbf-5f54-4690-8817-9c9776a704c7", "name": "ME2" },
+        { "ID": "893fd8ad-3821-4141-910e-72d8f0a9c6c5", "name": "OUTBY" }
+      ]
+    },
+    {
+      "typeID": "3e866f08-3227-4585-91a8-5e0043d79b59",
+      "entries" :
+      [
+        { "ID": "ed7f47b2-1a24-473a-ab27-04ef7d2b76f1", "name": "BDR816", "type": "Unknown", "Joy #": "", "Status": "Active" },
+        { "ID": "4f943df2-c84c-42c9-ad1d-c3b5595b1f86", "name": "BMV111", "type": "Unknown", "Joy #": "", "Status": "Active" },
+        { "ID": "f84e77f5-4e66-48c0-9404-cb411782094d", "name": "BTV306", "type": "Unknown", "Joy #": "", "Status": "Active" },
+        { "ID": "a74885af-f751-43a2-b040-d9b292f127d6", "name": "BTV381", "type": "Unknown", "Joy #": "", "Status": "Active" },
+        { "ID": "fb0f88dd-29a2-42d4-b1da-de120036f6fd", "name": "CB1", "type": "Unknown", "Joy #": "", "Status": "Active" },
+        { "ID": "3cecb304-6150-4101-a26e-df1b48eda939", "name": "CB2", "type": "Unknown", "Joy #": "", "Status": "Active" },
+        { "ID": "027a7cb5-4f7e-4139-8c2b-b3445b092ca7", "name": "CM201", "type": "Continuous Miner", "Joy #": "", "Status": "Active" },
+        { "ID": "67f3415f-2e02-4aaf-82f8-163af2a91d9b", "name": "CM202", "type": "Continuous Miner", "Joy #": "", "Status": "Active" }
+      ]
+    },
+    {
+      "typeID": "195c095e-5b7c-40a5-8a7e-3f987260a1d3",
+      "entries" :
+      [
+        { "ID": "7aedd6a3-b70e-4b50-9930-d520bb69572e", "name": "Kent Woolnack" },
+        { "ID": "25f23378-552a-4562-8cf6-4d4ae9691fab", "name": "Stephan Curtis" },
+        { "ID": "9951fe81-5bb0-4a6b-9216-d5c09ff7f7b9", "name": "Peter Novack" }
+      ]
+    },
+    {
+      "typeID": "e750f6b7-bc4b-4eb6-aa15-836320a39201",
+      "entries" :
+      [
+        { "ID": "69051fb1-d58b-42d6-8b17-832041ac3173", "name": "Bobby Brock" },
+        { "ID": "1d047f1e-16cf-43a8-ad9a-4aff5a79915e", "name": "Natashi Tzecksnee" }
+      ]
+    },
+    {
+      "typeID": "2b153e48-1ef8-426c-bcbc-18b37f739fbb",
+      "entries" :
+      [
+        { "ID": "2a882206-6b35-4705-8769-e3ccccee2e6a", "name": "Grant Hander" },
+        { "ID": "133134b5-7693-4418-9a17-3a9bb29dd8f6", "name": "Larry Uthop" }
+      ]
+    },
+    {
+      "typeID": "54f9e387-e8d4-4ac0-b2b2-88f9aca22f12",
+      "entries" :
+      [
+        { "ID": "c982ad2d-e738-4cba-961e-4f0be1dad603", "name": "Jackie Smith" },
+        { "ID": "492b6b96-1555-4abd-a81e-be59e23bd314", "name": "Brad Portnoy" },
+        { "ID": "288524fe-6060-4044-80a8-1795713111e8", "name": "Matthew Brandt" }
+      ]
+    }
+  ]
+}

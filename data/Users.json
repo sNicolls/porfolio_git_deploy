@@ -1,0 +1,34 @@
+{
+	"entries" : [
+		{
+        "ID": "9632777b-d294-4795-9457-ccfe3f6311ce",
+        "loginID": "mnicolls",
+        "displayName": "Michael Nicolls",
+        "roles": [ "Operations", "Maintenance", "SysAdmin" ]
+    },
+		{
+        "ID": "3342777b-d294-4795-9457-ccfe3f9939ce",
+        "loginID": "snicolls",
+        "displayName": "Shane Nicolls",
+        "roles": [ "Operations", "Maintenance", "SysAdmin" ]
+    },
+		{
+        "ID": "8448777b-d294-4795-9457-ccfe3f297bae",
+        "loginID": "kclark",
+        "displayName": "Keith Clark",
+        "roles": [ "Operations", "Maintenance", "SysAdmin" ]
+    },
+		{
+        "ID": "3321777b-d294-4795-9457-ccfe3f297b21",
+        "loginID": "dfromops",
+        "displayName": "Diane FromOps",
+        "roles": [ "Operations"]
+    },
+		{
+        "ID": "3321777b-d294-4795-9457-ccfe3f297b21",
+        "loginID": "afrommaint",
+        "displayName": "Alfred FromMaint",
+        "roles": [  "Maintenance"  ]
+    }
+	]
+}
